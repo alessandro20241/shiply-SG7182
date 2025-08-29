@@ -1,0 +1,43 @@
+{
+  "G88175": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Daniel Voigt, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Tobias Schraudy, Dietrichstraße 38, 52511 Geilenkirchen, Deutschland",
+    "price": "2.500 €",
+    "description": "Hersteller: KTM<br>Typ: 250 EXC-F Six Days<br>Fahrgestelnummer: VBKEXA401FM127406<br>Erstzulassung: 05/2015<br>KM laut Vorbesitzer: 2.097 km (78 Betriebsstunden)<br>Leistung: 13 kW (18 PS)<br>Hubraum: 250 cm³<br>Farbe: Weiß<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Tobias Schraudy<br>Dietrichstraße 38<br>52511 Geilenkirchen<br>Deutschland<br>Telefon: +4915733685848",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "20-08-2025",
+    "deliveryDate": "22-08-2025",
+    "pickup": {
+      "street": "Am Brink 8",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Hohenberg 49",
+      "postal_code": "8943",
+      "city": "Aigen im Ennstal",
+      "country": "Österreich"
+    }
+  }
+}
